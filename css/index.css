@@ -1,0 +1,24 @@
+h1, h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    color: #ecf0f1;
+}
+
+.home-content {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.home {
+    background: url(../media/home-background.png) no-repeat center;
+    background-size: cover;
+}
